@@ -1,2 +1,0 @@
-# Drumkits
-All My Drumkits
